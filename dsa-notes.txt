@@ -1,0 +1,8 @@
+Resources: https://github.com/codebasics/data-structures-algorithms-python
+
+Data structures are building blocks for any software programs.
+Data Structure is a way of collecting and organising data in such a way that we can perform 
+operations on these data in an effective way.
+The choice of a good data structure makes it possible to perform a variety of critical operations effectively. 
+An efficient data structure also uses minimum memory space and execution time to process the structure.
+The nature of the data determines the data structure.
