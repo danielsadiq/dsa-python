@@ -6,3 +6,9 @@ operations on these data in an effective way.
 The choice of a good data structure makes it possible to perform a variety of critical operations effectively. 
 An efficient data structure also uses minimum memory space and execution time to process the structure.
 The nature of the data determines the data structure.
+
+Big O notation
+O(1) - constant time
+O(n) - linear time
+O(log n) - log time
+O(n^2) - quadratic time
