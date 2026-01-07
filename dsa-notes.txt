@@ -12,3 +12,8 @@ O(1) - constant time
 O(n) - linear time
 O(log n) - log time
 O(n^2) - quadratic time
+
+Linked List
+Insert at beginning O(1)
+Delete at beginning O(1)
+Insert/Delete element at the end O(n) 
